@@ -1,4 +1,4 @@
-module map2struct
+module github.com/Rom4eg/map2struct
 
 go 1.25.2
 
