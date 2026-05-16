@@ -1,4 +1,4 @@
-package main
+package map2struct
 
 type M2SType int
 
